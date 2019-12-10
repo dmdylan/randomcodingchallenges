@@ -1,0 +1,6 @@
+C:\Users\Dylan Danowski\source\repos\Coding Challenges\Coding Challenges\obj\Debug\Coding Challenges.csprojAssemblyReference.cache
+C:\Users\Dylan Danowski\source\repos\Coding Challenges\Coding Challenges\bin\Debug\Coding Challenges.exe.config
+C:\Users\Dylan Danowski\source\repos\Coding Challenges\Coding Challenges\bin\Debug\Coding Challenges.exe
+C:\Users\Dylan Danowski\source\repos\Coding Challenges\Coding Challenges\bin\Debug\Coding Challenges.pdb
+C:\Users\Dylan Danowski\source\repos\Coding Challenges\Coding Challenges\obj\Debug\Coding Challenges.exe
+C:\Users\Dylan Danowski\source\repos\Coding Challenges\Coding Challenges\obj\Debug\Coding Challenges.pdb
